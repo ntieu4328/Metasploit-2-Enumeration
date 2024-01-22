@@ -66,4 +66,4 @@ My results:
 
 You can look through each vulnerability that Nessus identifies. Nessus gives you a description of the vulnerability and how threat actors can exploit it. Nessus also gives you solutions on how to fix the vulnerability.
 
-<b>You have finished the enumeration process. Let's start hacking!!!!!!</b>
+<b>Enumeration process is finished. Let's start hacking!!!!!!</b>
